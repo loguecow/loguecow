@@ -13,7 +13,7 @@
 ```
 ## Website
 
-https://loguecow.github.io
+https://loguecow.com
 
 ## Contact me
 
