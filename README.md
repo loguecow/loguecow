@@ -11,10 +11,6 @@
     /'\_   _/`\
     \___)=(___/
 ```
-## Website
-
-https://loguecow.com
-
 ## Contact me
 
 <ul>
