@@ -1,24 +1,24 @@
- ```_____________________________________
-< Greetings sire, the web awaits you! >
- -------------------------------------
-   \
-    \
-        .--.
-       |o_o |
-       |:_/ |
-      //   \ \
-     (|     | )
-    /'\_   _/`\
-    \___)=(___/
+ ```
+                    (`.         ,-,
+                    ` `.    ,;' /
+                     `.  ,'/ .'
+                      `. X /.'
+            .-;--''--.._` ` (
+          .'            /   `
+         ,           ` '   Q '
+         ,         ,   `._    \
+      ,.|         '     `-.;_'
+      :  . `  ;    `  ` --,.._;
+       ' `    ,   )   .'
+          `._ ,  '   /_
+             ; ,''-,;' ``-
+              ``-..__``--`
 ```
-# My Bug Bounty Hall of Fame
-
-Simple bugs i found
 
 ## Bug Bounties
 
-1. **itslearning**: My first rewarded bug bounty was a Reflected XSS vulnerability, found by bypassing XSS filters. Recognized in their [Hall of Fame](https://itslearning.com/privacy-commitment/responsible-disclosure/hall-of-fame).
-2. **Visma**: I discovered a Reflected XSS vulnerability, found by uploading an SVG profile picture. Recognized in their [Hall of Fame](https://www.visma.com/trust-centre/security/hall-of-fame).
+1. **itslearning**: [Hall of Fame](https://itslearning.com/privacy-commitment/responsible-disclosure/hall-of-fame#:~:text=Andreas%20Bj%C3%B8rn%C3%A5).
+2. **Visma**: [Hall of Fame](https://www.visma.com/trust-centre/security/hall-of-fame#:~:text=Andreas%20Bj%C3%B8rn%C3%A5).
 
 
 
